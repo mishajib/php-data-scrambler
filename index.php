@@ -34,7 +34,16 @@ if ('decode' == $task) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Data Scrambler</title>
+    <meta property="og:image" content="thumbnail.png">
+    <meta name="twitter:image" content="thumbnail.png">
+    <meta name="twitter:site" content="DATA SCRAMBLER">
+    <meta property="og:site_name" content="DATA SCRAMBLER">
+    <meta name="description" content="By this app encode any data and decode the encoded data using encode key">
+    <meta name="keywords" content="mishajib, mi shajib, mi, shajib, md mazharul islam shajib, mazharul islam, mazharul, data scrambler, data scramble, scramble, encode, decode, data encode, data decode">
+    <meta name="author" content="MI SHAJIB">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DATA SCRAMBLER | DATA ENCODE | DATA DECODE</title>
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
     <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
     <link rel="stylesheet" href="//cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css">
